@@ -1,0 +1,14 @@
+p {
+    justify-content: center;
+    background: #FFFFFF ;
+    border-style: dashed; 
+    }
+
+div{
+    background-color: cornsilk;
+    border-color: mediumorchid;
+    border-width: 50px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+        
+}
