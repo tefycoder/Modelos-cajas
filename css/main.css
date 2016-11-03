@@ -1,26 +1,19 @@
 p {
     
     background: #FFFFFF ;
-    border-style: dashed; 
-    margin-top: 40px;
-    margin-bottom: 20px;
-    margin-left: 70px;
-    margin-right:100px;
+    border:1px dashed black;
+    text-align: center;
+    padding: 5px;
     
     }
 
 div{
     background-color: orange;
-    border-left: 50px ;
-    border-width: 50px;
-    padding-top: 100px;
-    padding-bottom: 100px;
-    margin-top: 40px;
-    margin-bottom: 20px;
-    margin-left: 70px;
-    margin-right:100px;
-    border-color: purple;
-    
+    padding: 10px 10px 30px 100px;
+    border-width: 8px 4px;
+    border-color:plum ;
+    border-style:solid;
+        
     }
 
 
